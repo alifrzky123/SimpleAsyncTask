@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleSyncTask</string>
+    <string name="ready_to_start">Im Ready!</string>
+    <string name="start_task">Start Task!</string>
+    <string name="napping">Napping..</string>
+
+</resources>
